@@ -1,0 +1,19 @@
+{
+  "name": "joinspoton-ember-calendar",
+  "description": "Calendar component for Ember.js.",
+  "version": "1.0.0",
+  "keywords": [
+    "ember",
+    "calendar"
+  ],
+  "styles": [
+    "dist/ember-calendar.css",
+    "dist/ember-calendar.min.css"
+  ],
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "component-ember": "git://github.com/npmcomponent/component-ember.git",
+    "component-moment": "git://github.com/npmcomponent/component-moment.git"
+  },
+  "license": "MIT"
+}
